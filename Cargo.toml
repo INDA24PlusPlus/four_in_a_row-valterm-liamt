@@ -1,0 +1,6 @@
+[package]
+name = "four_in_a_row-valterm-liamt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
